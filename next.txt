@@ -10,3 +10,5 @@ Provides specific structure:
         * Automatically lazy loads
 
 Typically uses functional components
+Uses 'styled-jsx' package to write CSS styles in JSX code
+    Extracted & Scoped to component
