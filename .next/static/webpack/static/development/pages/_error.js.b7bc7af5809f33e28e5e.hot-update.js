@@ -1066,7 +1066,7 @@ var _jsxFileName = "/Users/ryanmoore/Documents/Udemy/React/nextjs/pages/_error.j
 
 
 
-var indexPage = function indexPage() {
+var errorPage = function errorPage() {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     __source: {
       fileName: _jsxFileName,
@@ -1101,7 +1101,7 @@ var indexPage = function indexPage() {
   }, "going back"))));
 };
 
-/* harmony default export */ __webpack_exports__["default"] = (indexPage);
+/* harmony default export */ __webpack_exports__["default"] = (errorPage);
 
 /***/ }),
 
@@ -1118,4 +1118,4 @@ module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F_error
 /***/ })
 
 })
-//# sourceMappingURL=_error.js.2b323ff4687bf96f70e4.hot-update.js.map
+//# sourceMappingURL=_error.js.b7bc7af5809f33e28e5e.hot-update.js.map
