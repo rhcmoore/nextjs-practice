@@ -1,0 +1,12 @@
+Next.js is a package that facilitates server side rendering (SSR)
+
+Provides specific structure:
+    * Enforces strict folder structure
+    * Routes are generated automatically
+    * File system is the main API (no React Router)
+    * Instead, create folders and files to reflect routes
+        * NextJS parses these folders and file names
+        * Pre-renders pages
+        * Automatically lazy loads
+
+Typically uses functional components
